@@ -9,3 +9,7 @@ Created in Python, GUI from the [tkinter](https://docs.python.org/3/library/tkin
  * Login & Register system
  * Room booking with checkout calculations
  * File reading/writing for local storage of room keys, user IDs, and manager details
+
+2 directories are automatically created: `RoomKeys` and `UserIDs`.
+
+Directories must be kept in the same path as the `HotelRegistration.py` file to work properly.
