@@ -1,6 +1,6 @@
 # HotelManagement
 
-A GUI program created in Python for the culminating project in the ICS3U Grade 11 Computer Science course
+A program for the culminating project in the ICS3U Grade 11 Computer Science course
 
 Created in Python, GUI from the [tkinter](https://docs.python.org/3/library/tkinter.html) library.
 
